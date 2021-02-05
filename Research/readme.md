@@ -18,3 +18,7 @@ PROS
 CONS
     • High cost
     • Need to have some knowledge for operating calculators.
+    
+SWOT Analysis:
+
+![alt text](https://github.com/99003512/SDLC_Calculator/blob/main/Research/SWOT.png)
