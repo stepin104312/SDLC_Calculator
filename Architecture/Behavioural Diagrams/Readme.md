@@ -11,3 +11,9 @@
          Exponential Behavioral Diagram
  ![alt text](https://github.com/99003512/SDLC_Calculator/blob/main/Architecture/Behavioural%20Diagrams/simple_intrest.png)
         Simple Intrest diagram
+        
+        
+        
+        power behavioural diagram
+        
+       ![alt text](https://github.com/99003512/SDLC_Calculator/blob/main/Architecture/Behavioural%20Diagrams/power%20behavioural%20diagram.png)
