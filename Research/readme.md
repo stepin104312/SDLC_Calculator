@@ -10,6 +10,11 @@ COST:
 |---|---|---|---|
 |  360$-400$ | 700$-800$  |   20$-30$|  10$-12$ |
 
+PROS AND CONS
+
+
+![alt text](https://github.com/99003512/SDLC_Calculator/blob/main/Research/pros%20and%20cons)
+
 PROS
     • More operations possible.
     • Efficient
